@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #ffed84;
+}
+
+.cajaAmarilla {
+    height: 100px;
+    background-color: #ffff00;
+    ;
+}
+
+@font-face {
+    font-family: thesimpson;
+    src: url('fonts/Simpsonfont.otf');
+}
+
+h1, h2{
+    font-family: thesimpson;
+}
